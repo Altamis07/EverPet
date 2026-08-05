@@ -1,4 +1,4 @@
-# Companio
+# Everpet
 
 ## Setup
 
